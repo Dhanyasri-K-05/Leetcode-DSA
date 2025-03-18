@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0394-decode-string) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2470-removing-stars-from-a-string) |
 ## Simulation
 |  |
@@ -35,4 +36,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0328-odd-even-linked-list](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0328-odd-even-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
