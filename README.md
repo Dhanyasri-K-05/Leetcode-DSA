@@ -51,10 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [2793-count-the-number-of-complete-components](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [2793-count-the-number-of-complete-components](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2793-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
 | ------- |
@@ -79,4 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Union Find
+|  |
+| ------- |
+| [2793-count-the-number-of-complete-components](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2793-count-the-number-of-complete-components) |
+## Graph
+|  |
+| ------- |
+| [2793-count-the-number-of-complete-components](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2793-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
