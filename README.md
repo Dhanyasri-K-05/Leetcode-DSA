@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0016-3sum-closest) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/1580-shuffle-the-array) |
 | [2478-longest-nice-subarray](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2478-longest-nice-subarray) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0016-3sum-closest) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Tree
 |  |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0016-3sum-closest) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [3430-count-days-without-meetings](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/3430-count-days-without-meetings) |
 ## Heap (Priority Queue)
