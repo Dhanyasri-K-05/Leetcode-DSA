@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0016-3sum-closest) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/1580-shuffle-the-array) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2478-longest-nice-subarray](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2478-longest-nice-subarray) |
 | [3430-count-days-without-meetings](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0016-3sum-closest) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3430-count-days-without-meetings](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Heap (Priority Queue)
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/1086-divisor-game) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -116,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/1086-divisor-game) |
+## Matrix
+|  |
+| ------- |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 <!---LeetCode Topics End-->
