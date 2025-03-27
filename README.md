@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0813-all-paths-from-source-to-target](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0813-all-paths-from-source-to-target) |
+| [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2121-find-if-path-exists-in-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2793-count-the-number-of-complete-components) |
 ## Math
