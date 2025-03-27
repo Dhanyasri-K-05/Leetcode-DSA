@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/1580-shuffle-the-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2478-longest-nice-subarray](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2478-longest-nice-subarray) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3430-count-days-without-meetings](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Bit Manipulation
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0001-two-sum) |
 | [0127-word-ladder](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0127-word-ladder) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2888-minimum-index-of-a-valid-split) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0016-3sum-closest) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3430-count-days-without-meetings](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Heap (Priority Queue)
