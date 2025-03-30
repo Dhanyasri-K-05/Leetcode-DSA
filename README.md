@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0127-word-ladder) |
 | [0394-decode-string](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0394-decode-string) |
+| [0768-partition-labels](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0768-partition-labels) |
 | [2470-removing-stars-from-a-string](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2470-removing-stars-from-a-string) |
 ## Stack
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0016-3sum-closest) |
+| [0768-partition-labels](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0768-partition-labels) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Tree
 |  |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0001-two-sum) |
 | [0127-word-ladder](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0127-word-ladder) |
+| [0768-partition-labels](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0768-partition-labels) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2888-minimum-index-of-a-valid-split) |
 ## Divide and Conquer
 |  |
@@ -141,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0813-all-paths-from-source-to-target](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0813-all-paths-from-source-to-target) |
+## Greedy
+|  |
+| ------- |
+| [0768-partition-labels](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0768-partition-labels) |
 <!---LeetCode Topics End-->
