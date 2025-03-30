@@ -12,22 +12,17 @@ class Solution {
 
             if(curr>=ind){
                 ind=curr;
-                //System.out.println(ind);
             }
            
             if(i==ind){
-                if(j==0){
-                    ans.add(i+1);
-                     total=total+ans.get(j);
-                    j++;
-                }else{
+              
                     ans.add(i-total+1);
                      total=total+ans.get(j);
                     j++;
                 }
             }
             
-        }
+        
         return ans;
     }
 }
