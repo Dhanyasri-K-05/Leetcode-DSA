@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0038-count-and-say) |
 | [0127-word-ladder](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0127-word-ladder) |
 | [0394-decode-string](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0394-decode-string) |
 | [0742-to-lower-case](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0742-to-lower-case) |
