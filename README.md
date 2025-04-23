@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0443-string-compression) |
 | [0742-to-lower-case](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0742-to-lower-case) |
 | [0768-partition-labels](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0768-partition-labels) |
+| [0851-goat-latin](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0851-goat-latin) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2470-removing-stars-from-a-string](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2470-removing-stars-from-a-string) |
 ## Stack
