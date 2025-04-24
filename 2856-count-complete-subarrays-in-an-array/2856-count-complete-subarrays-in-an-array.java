@@ -4,19 +4,25 @@ class Solution {
         for(int num:nums){
             set.add(num);
         }
-
+HashMap<Integer,Integer> map=new HashMap<>();
         int value=set.size();
 int count=0;
+int l=0;
+int r=0;
+        while(l<nums.length && r<nums.length){
+            map.put(nums[r],map.getOrDefault(nums[r],0)+1);
+            while(map.size()==value) {
+                count=count+nums.length-r;
+                map.put(nums[l],map.get(nums[l])-1);
+                if(map.get(nums[l])==0) map.remove(nums[l]);
+                l++;
+             }
+             
+                r++;
+             
+           
 
-for(int i=0;i<nums.length;i++){
-    HashMap<Integer,Integer> map=new HashMap<>();
-    for(int j=i;j<nums.length;j++){
-        map.put(nums[j],map.getOrDefault(nums[j],0)+1);
-        if(map.size()==value)count++;
-
-    }
-    //map.put(nums[i],map.get(nums[i])-1);
-}       
+        }
         return count;
     }
 }
