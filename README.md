@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0621-task-scheduler](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0621-task-scheduler) |
 | [1127-last-stone-weight](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/1127-last-stone-weight) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1580-shuffle-the-array](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/1580-shuffle-the-array) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/1706-min-cost-to-connect-all-points) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0621-task-scheduler](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0621-task-scheduler) |
 | [0768-partition-labels](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0768-partition-labels) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0621-task-scheduler](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0621-task-scheduler) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -224,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2394-count-subarrays-with-score-less-than-k) |
+## Counting Sort
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
