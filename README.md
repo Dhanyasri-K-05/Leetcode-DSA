@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2478-longest-nice-subarray](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2478-longest-nice-subarray) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0371-sum-of-two-integers) |
 | [2478-longest-nice-subarray](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2478-longest-nice-subarray) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Sliding Window
 |  |
 | ------- |
