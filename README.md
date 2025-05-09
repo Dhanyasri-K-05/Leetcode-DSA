@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0621-task-scheduler](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0621-task-scheduler) |
 | [1127-last-stone-weight](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/1127-last-stone-weight) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0016-3sum-closest) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0443-string-compression](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0443-string-compression) |
 | [0768-partition-labels](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0868-push-dominoes) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Topological Sort
 |  |
