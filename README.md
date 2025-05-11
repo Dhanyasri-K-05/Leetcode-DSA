@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0110-balanced-binary-tree) |
 | [0207-course-schedule](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0813-all-paths-from-source-to-target](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0820-find-eventual-safe-states) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Hash Table
@@ -254,4 +257,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
