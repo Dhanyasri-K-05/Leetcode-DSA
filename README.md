@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0213-house-robber-ii](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0621-task-scheduler](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0621-task-scheduler) |
 | [1127-last-stone-weight](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/1127-last-stone-weight) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0213-house-robber-ii](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0213-house-robber-ii) |
 | [0868-push-dominoes](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0868-push-dominoes) |
 | [1086-divisor-game](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/1086-divisor-game) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
