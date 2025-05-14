@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1580-shuffle-the-array](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/1580-shuffle-the-array) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/1706-min-cost-to-connect-all-points) |
+| [2122-count-special-quadruplets](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2122-count-special-quadruplets) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0621-task-scheduler) |
 | [0768-partition-labels](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0768-partition-labels) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2122-count-special-quadruplets](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2122-count-special-quadruplets) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -268,4 +270,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Enumeration
+|  |
+| ------- |
+| [2122-count-special-quadruplets](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2122-count-special-quadruplets) |
 <!---LeetCode Topics End-->
