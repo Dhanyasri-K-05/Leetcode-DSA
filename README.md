@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0143-reorder-list) |
 | [0394-decode-string](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0394-decode-string) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2470-removing-stars-from-a-string) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0143-reorder-list) |
 | [0394-decode-string](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0394-decode-string) |
 | [2050-count-good-numbers](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2050-count-good-numbers) |
 ## Array
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0143-reorder-list) |
 | [0328-odd-even-linked-list](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0328-odd-even-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Two Pointers
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0016-3sum-closest) |
+| [0143-reorder-list](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0443-string-compression](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0443-string-compression) |
 | [0768-partition-labels](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0768-partition-labels) |
