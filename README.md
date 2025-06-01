@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/1086-divisor-game) |
 | [2050-count-good-numbers](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [3199-distribute-candies-among-children-i](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/3199-distribute-candies-among-children-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Dynamic Programming
 |  |
@@ -281,4 +282,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2122-count-special-quadruplets](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2122-count-special-quadruplets) |
+| [3199-distribute-candies-among-children-i](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/3199-distribute-candies-among-children-i) |
+## Combinatorics
+|  |
+| ------- |
+| [3199-distribute-candies-among-children-i](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/3199-distribute-candies-among-children-i) |
 <!---LeetCode Topics End-->
