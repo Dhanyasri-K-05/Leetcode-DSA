@@ -292,4 +292,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3199-distribute-candies-among-children-i](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/3199-distribute-candies-among-children-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/3201-distribute-candies-among-children-ii) |
+## Database
+|  |
+| ------- |
+| [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 <!---LeetCode Topics End-->
