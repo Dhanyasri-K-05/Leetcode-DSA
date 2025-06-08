@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0386-lexicographical-numbers](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0813-all-paths-from-source-to-target](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0820-find-eventual-safe-states) |
@@ -307,4 +308,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1801-average-time-of-process-per-machine](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/1801-average-time-of-process-per-machine) |
 | [2087-confirmation-rate](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2087-confirmation-rate) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
