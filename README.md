@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0092-reverse-linked-list-ii](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0092-reverse-linked-list-ii) |
 | [0143-reorder-list](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0143-reorder-list) |
 | [0328-odd-even-linked-list](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0328-odd-even-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
