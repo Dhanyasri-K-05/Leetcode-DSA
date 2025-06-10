@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2470-removing-stars-from-a-string) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Stack
 |  |
 | ------- |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0621-task-scheduler) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Prefix Sum
 |  |
 | ------- |
