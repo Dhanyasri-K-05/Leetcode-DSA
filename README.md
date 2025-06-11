@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0073-set-matrix-zeroes) |
+| [0120-triangle](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0120-triangle](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0120-triangle) |
 | [0213-house-robber-ii](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0213-house-robber-ii) |
 | [0868-push-dominoes](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0868-push-dominoes) |
 | [1086-divisor-game](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/1086-divisor-game) |
