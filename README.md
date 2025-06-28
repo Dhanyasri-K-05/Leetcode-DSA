@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/1753-path-with-minimum-effort) |
 | [2122-count-special-quadruplets](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2122-count-special-quadruplets) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2478-longest-nice-subarray](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2478-longest-nice-subarray) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2122-count-special-quadruplets](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2122-count-special-quadruplets) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0621-task-scheduler) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1127-last-stone-weight](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/1127-last-stone-weight) |
 | [1753-path-with-minimum-effort](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/1753-path-with-minimum-effort) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Quickselect
 |  |
 | ------- |
