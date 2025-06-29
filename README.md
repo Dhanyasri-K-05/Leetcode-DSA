@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0127-word-ladder) |
 | [0394-decode-string](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0443-string-compression) |
+| [0721-accounts-merge](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0721-accounts-merge) |
 | [0742-to-lower-case](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0742-to-lower-case) |
 | [0768-partition-labels](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0768-partition-labels) |
 | [0851-goat-latin](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0851-goat-latin) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0721-accounts-merge) |
 | [1127-last-stone-weight](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0386-lexicographical-numbers](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0813-all-paths-from-source-to-target) |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0322-coin-change) |
+| [0721-accounts-merge](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0813-all-paths-from-source-to-target) |
@@ -174,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0621-task-scheduler](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0768-partition-labels) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -197,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0455-assign-cookies](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0721-accounts-merge) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -223,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0721-accounts-merge](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0721-accounts-merge) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/1706-min-cost-to-connect-all-points) |
