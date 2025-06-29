@@ -10,22 +10,37 @@
  */
 class Solution {
     public ListNode oddEvenList(ListNode head) {
-        if(head==null) return null;
-        if(head.next==null) return head;
-        ListNode temp1=head;
-        ListNode temp2=temp1.next;
-        ListNode even=temp2;
 
-        while(temp1.next!=null && even.next!=null){
-            temp1.next=even.next;
-            temp1=temp1.next;
-            even.next=temp1.next;
-            even=even.next;
+        if(head==null || head.next==null) return head;
+
+        ListNode temp = head;
+        ListNode odd = head;
+        ListNode even = head.next;
+        ListNode head2 = head.next;
+
+        int count = 0;
+
+        while (temp != null) {
+            count++;
+
+            if (count >= 3 && count % 2 == 1) {
+                odd.next = temp;
+               // System.out.println(odd.val);
+                odd = odd.next;
+
+            } else if (count >= 3 && count % 2 == 0) {
+                even.next = temp;
+                //System.out.println(even.val);
+                even = even.next;
+            }
+
+            temp = temp.next;
         }
+        even.next=null;
 
-        temp1.next=temp2;
+        odd.next = head2;
 
         return head;
-        
+
     }
 }
