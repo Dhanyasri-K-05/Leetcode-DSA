@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0868-push-dominoes) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2470-removing-stars-from-a-string](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2470-removing-stars-from-a-string) |
+| [3617-find-the-original-typed-string-i](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/3617-find-the-original-typed-string-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
