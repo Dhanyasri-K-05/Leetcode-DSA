@@ -11,9 +11,9 @@ class Solution {
 
 int c=0;
         for(int num:map.values()){
-            if(num>=1){
+            
                 c=c+num;
-            }
+            
         }
         return c+1;
     }
