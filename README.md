@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0310-minimum-height-trees](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0310-minimum-height-trees) |
 | [0386-lexicographical-numbers](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0386-lexicographical-numbers) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0543-diameter-of-binary-tree) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0127-word-ladder) |
 | [0207-course-schedule](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0226-invert-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0721-accounts-merge](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0721-accounts-merge) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0207-course-schedule) |
+| [0310-minimum-height-trees](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0310-minimum-height-trees) |
 | [0744-network-delay-time](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0813-all-paths-from-source-to-target) |
@@ -323,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0207-course-schedule) |
+| [0310-minimum-height-trees](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0310-minimum-height-trees) |
 | [0820-find-eventual-safe-states](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0820-find-eventual-safe-states) |
 ## Minimum Spanning Tree
 |  |
