@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3430-count-days-without-meetings](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/3430-count-days-without-meetings) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
