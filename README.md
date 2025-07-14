@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0721-accounts-merge) |
+| [1019-squares-of-a-sorted-array](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1127-last-stone-weight](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0455-assign-cookies) |
 | [0768-partition-labels](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0868-push-dominoes) |
+| [1019-squares-of-a-sorted-array](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0721-accounts-merge) |
+| [1019-squares-of-a-sorted-array](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
