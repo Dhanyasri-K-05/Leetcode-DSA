@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0455-assign-cookies](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0621-task-scheduler) |
+| [0713-subarray-product-less-than-k](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0721-accounts-merge](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0721-accounts-merge) |
 | [1019-squares-of-a-sorted-array](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1127-last-stone-weight](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/1127-last-stone-weight) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0713-subarray-product-less-than-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2478-longest-nice-subarray](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2478-longest-nice-subarray) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0713-subarray-product-less-than-k](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1753-path-with-minimum-effort](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/1753-path-with-minimum-effort) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0713-subarray-product-less-than-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Counting Sort
 |  |
