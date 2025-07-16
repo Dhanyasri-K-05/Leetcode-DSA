@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0143-reorder-list) |
 | [0394-decode-string](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0394-decode-string) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/2470-removing-stars-from-a-string) |
 ## Simulation
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0455-assign-cookies](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0455-assign-cookies) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0621-task-scheduler](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0621-task-scheduler) |
 | [0713-subarray-product-less-than-k](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0721-accounts-merge](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0721-accounts-merge) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0443-string-compression](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0455-assign-cookies) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0768-partition-labels](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0868-push-dominoes) |
 | [1019-squares-of-a-sorted-array](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/1019-squares-of-a-sorted-array) |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0455-assign-cookies](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0455-assign-cookies) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0621-task-scheduler](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0721-accounts-merge) |
 | [1019-squares-of-a-sorted-array](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/1019-squares-of-a-sorted-array) |
@@ -319,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0135-candy](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0455-assign-cookies) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0621-task-scheduler](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0621-task-scheduler) |
 | [0768-partition-labels](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0768-partition-labels) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -410,4 +415,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0744-network-delay-time](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0803-cheapest-flights-within-k-stops) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Dhanyasri-K-05/Leetcode-DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 <!---LeetCode Topics End-->
